@@ -12,7 +12,7 @@
     "offset_y": 0,
     "rotation": 0,
     "color_depth": "16",
-    "lvgl_export_path": "./libraries",
+    "lvgl_export_path": "",
     "lvgl_include_path": "",
     "language": "C",
     "supported_lvgl_version": "8.3.*",
