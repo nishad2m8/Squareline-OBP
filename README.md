@@ -29,21 +29,17 @@ The board package files should be copied to the following path:
 
 ---
 
-## Supported boards
-
-### M5Stack
-_Support  by using the referral link below to purchase the board 🛍️ !_
-
-| Board 🛍️ | Image | Resolution | IDE | Projects |
-|-----------------|-----------------|-----------------|--- |--|
-|[Cardputer](https://s.click.aliexpress.com/e/_DnK2GNR)|![alt text](M5Stack/Cardputer/cardputer.png) |240x135|PlatofmIO| [GeminiPuter](https://github.com/nishad2m8/GeminiPuter) <br>[Pip-Boy Clock](https://github.com/nishad2m8/Pip-Boy-Weather-Clock) |
 
 
+# Supported boards
 
-### Lilygo
+_Support by using the referral link below to purchase the board 🛍️ !_
 
 | Board 🛍️ | Image | Resolution | IDE | Projects |
 |-----------------|-----------------|-----------------|--- |--|
+|💥 M5Stack |
+|[Cardputer](https://s.click.aliexpress.com/e/_DnK2GNR)|![alt text](M5Stack/Cardputer/cardputer.png) |240x135|PlatofmIO| https://github.com/nishad2m8/GeminiPuter <br> https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
+|💥 Lilygo|
 | [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3/t-display-s3.png) | 320x170  | PlatformIO | https://github.com/nishad2m8/T-Display-S3-YT |
 | [T-Display S3 AMOLED](https://s.click.aliexpress.com/e/_EJvcv3n)  | ![alt text](Lilygo/t-display-s3-amoled/t-display-s3-amoled.png) | 536x240  | PlatformIO | https://github.com/nishad2m8/BTC-Ticker |
 | [T-Display S3 AMOLED 1.43](https://s.click.aliexpress.com/e/_oo8DcLv)  |![alt text](Lilygo/t-display-s3-amoled-1.43/t-display-s3-amoled-1.43.png) | 466x466  | PlatformIO | https://github.com/nishad2m8/T-Display-S3-DS-1.43-YT|
@@ -53,11 +49,9 @@ _Support  by using the referral link below to purchase the board 🛍️ !_
 | [T-QT C6](https://s.click.aliexpress.com/e/_DEoEopt)  | ![alt text](Lilygo/t-qt-c6/t-qt-c6.png) | 128x128  | Arduino | https://github.com/nishad2m8/T-QT-C6-YT |
 | [T-RGB](https://s.click.aliexpress.com/e/_oDt7iPZ)  | ![alt text](Lilygo/t-rgb/t-rgb.png) | 480x480  | PlatformIO | https://github.com/nishad2m8/T-RGB-YT |
 | [T4-S3](https://s.click.aliexpress.com/e/_EwYC7m9)  | ![alt text](Lilygo/t4-s3/t4-s3.png) | 450x600  | PlatformIO |https://github.com/nishad2m8/T4-S3-YT |
-
-### CYD
-
-| Board 🛍️ | Image | Resolution | IDE | Projects |
-|-----------------|-----------------|-----------------|--- |---|
+|💥 Makerfabs |
+|[Rotary IPS-Display 1.28"](https://www.makerfabs.com/matouch-esp32-s3-rotaryips-display1-28-gc9a01.html)| ![alt text](<Makerfabs/MaTouch Rotary 1.28/MaTouch Rotary 1.28.png>) | 240x240 |PlatformIO | WIP |
+|💥 CYD|
 |[4848S040C-IY3](https://s.click.aliexpress.com/e/_EQ3RBgD)| ![alt text](<Display Panel CYD/4848S040C-IY3/4848S040C-IY3.png>) | 480x480 |PlatformIO |https://github.com/nishad2m8/Display-Panel-CYD|
 
 
