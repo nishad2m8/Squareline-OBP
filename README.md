@@ -64,7 +64,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 
 ## PlatformIO
 
-After exporting, rename the folder and files to match the following structure:
+After exporting, rename the folder and files to match the following structure.
 
 
 ```
