@@ -80,7 +80,7 @@ After exporting, rename the folder and files to match the following structure:
 ---
 
 ## Arduino
-After exporting, update the Arduino settings → set the Sketchbook location to the project folder.
+After exporting, update the Arduino settings → set the Sketchbook location to the SLS-OBP-Your-Project folder.
 
 ```plaintext
 ├── Template  
