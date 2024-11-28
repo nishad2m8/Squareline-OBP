@@ -35,31 +35,58 @@ The board package files should be copied to the following path:
 
 _Support by using the referral link below to purchase the board 🛍️ !_
 
-| Board 🛍️ | Image | Resolution | IDE | Projects |
-|-----------------|-----------------|-----------------|--- |--|
+| Board 🛍️ | Image | Resolution | My Works |
+|-----------------|-----------------|-----------------|-----------------|
 |💥 M5Stack |
-|[Cardputer](https://s.click.aliexpress.com/e/_DnK2GNR)|![alt text](M5Stack/Cardputer/cardputer.png) |240x135|PlatofmIO| https://github.com/nishad2m8/GeminiPuter <br> https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
+|[Cardputer](https://s.click.aliexpress.com/e/_DnK2GNR)|![alt text](M5Stack/Cardputer/cardputer.png) |240x135| https://github.com/nishad2m8/GeminiPuter <br> https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
 |💥 Lilygo|
-| [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3/t-display-s3.png) | 320x170  | PlatformIO | https://github.com/nishad2m8/T-Display-S3-YT |
-| [T-Display S3 AMOLED](https://s.click.aliexpress.com/e/_EJvcv3n)  | ![alt text](Lilygo/t-display-s3-amoled/t-display-s3-amoled.png) | 536x240  | PlatformIO | https://github.com/nishad2m8/BTC-Ticker |
-| [T-Display S3 AMOLED 1.43](https://s.click.aliexpress.com/e/_oo8DcLv)  |![alt text](Lilygo/t-display-s3-amoled-1.43/t-display-s3-amoled-1.43.png) | 466x466  | PlatformIO | https://github.com/nishad2m8/T-Display-S3-DS-1.43-YT|
-| [T-Display S3 AMOLED 1.64](https://s.click.aliexpress.com/e/_oFH1351)  | ![alt text](00-Assets/t-display-s3-amoled-1.64.png) | 280x456  |PlatformIO|https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
-| [T-Display S3 Pro](https://s.click.aliexpress.com/e/_onH08Ub)  | ![alt text](Lilygo/t-display-s3-pro/t-display-s3-pro.png) | 222x480  | PlatformIO | https://github.com/nishad2m8/T-Display-S3-Pro-YT|
-| [T-Encoder Pro](https://s.click.aliexpress.com/e/_mOAGaVW)  | ![alt text](00-Assets/t-encoder-pro.png) | 390x390  | PlatformIO | https://github.com/nishad2m8/T-Encode-Pro-YT |
-| [T-QT C6](https://s.click.aliexpress.com/e/_DEoEopt)  | ![alt text](Lilygo/t-qt-c6/t-qt-c6.png) | 128x128  | Arduino | https://github.com/nishad2m8/T-QT-C6-YT |
-| [T-RGB](https://s.click.aliexpress.com/e/_oDt7iPZ)  | ![alt text](Lilygo/t-rgb/t-rgb.png) | 480x480  | PlatformIO | https://github.com/nishad2m8/T-RGB-YT |
-| [T4-S3](https://s.click.aliexpress.com/e/_EwYC7m9)  | ![alt text](Lilygo/t4-s3/t4-s3.png) | 450x600  | PlatformIO |https://github.com/nishad2m8/T4-S3-YT |
+| [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3/t-display-s3.png) | 320x170  | https://github.com/nishad2m8/T-Display-S3-YT |
+| [T-Display S3 AMOLED](https://s.click.aliexpress.com/e/_EJvcv3n)  | ![alt text](Lilygo/t-display-s3-amoled/t-display-s3-amoled.png) | 536x240  | https://github.com/nishad2m8/BTC-Ticker |
+| [T-Display S3 AMOLED 1.43](https://s.click.aliexpress.com/e/_oo8DcLv)  |![alt text](Lilygo/t-display-s3-amoled-1.43/t-display-s3-amoled-1.43.png) | 466x466  | https://github.com/nishad2m8/T-Display-S3-DS-1.43-YT|
+| [T-Display S3 AMOLED 1.64](https://s.click.aliexpress.com/e/_oFH1351)  | ![alt text](Lilygo/t-display-s3-amoled-1.64/t-display-s3-amoled-1.64.png) | 280x456  |https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
+| [T-Display S3 Pro](https://s.click.aliexpress.com/e/_onH08Ub)  | ![alt text](Lilygo/t-display-s3-pro/t-display-s3-pro.png) | 222x480  | https://github.com/nishad2m8/T-Display-S3-Pro-YT|
+| [T-Encoder Pro](https://s.click.aliexpress.com/e/_mOAGaVW)  | ![alt text](Lilygo/t-encoder-pro/t-encoder-pro.png) | 390x390  | https://github.com/nishad2m8/T-Encode-Pro-YT |
+| [T-QT C6](https://s.click.aliexpress.com/e/_DEoEopt)  | ![alt text](Lilygo/t-qt-c6/t-qt-c6.png) | 128x128  | https://github.com/nishad2m8/T-QT-C6-YT |
+| [T-RGB](https://s.click.aliexpress.com/e/_oDt7iPZ)  | ![alt text](Lilygo/t-rgb/t-rgb.png) | 480x480  | https://github.com/nishad2m8/T-RGB-YT |
+| [T4-S3](https://s.click.aliexpress.com/e/_EwYC7m9)  | ![alt text](Lilygo/t4-s3/t4-s3.png) | 450x600  |https://github.com/nishad2m8/T4-S3-YT |
 |💥 Makerfabs |
-|[Rotary IPS-Display 1.28"](https://www.makerfabs.com/matouch-esp32-s3-rotaryips-display1-28-gc9a01.html)| ![alt text](<Makerfabs/MaTouch Rotary 1.28/MaTouch Rotary 1.28.png>) | 240x240 |PlatformIO | WIP |
+|[Rotary IPS-Display 1.28"](https://www.makerfabs.com/matouch-esp32-s3-rotaryips-display1-28-gc9a01.html)| ![alt text](<Makerfabs/MaTouch Rotary 1.28/MaTouch Rotary 1.28.png>) | 240x240 | https://github.com/nishad2m8/MaTouch-YT |
 |💥 CYD|
-|[4848S040C-IY3](https://s.click.aliexpress.com/e/_EQ3RBgD)| ![alt text](<Display Panel CYD/4848S040C-IY3/4848S040C-IY3.png>) | 480x480 |PlatformIO |https://github.com/nishad2m8/Display-Panel-CYD|
+|[4848S040C-IY3](https://s.click.aliexpress.com/e/_EQ3RBgD)| ![alt text](<Display Panel CYD/4848S040C-IY3/4848S040C-IY3.png>) | 480x480 |https://github.com/nishad2m8/Display-Panel-CYD
 
 
+---
 
-# Instruction : PlatformIO
+# Instruction
+![alt text](00-Assets/sls.png)
+---
 
-![alt text](00-Assets/Instruction.png)
+## PlatformIO
 
-# Instruction : Arduino
+After exporting, rename the folder and files to match the following structure:
 
-![alt text](00-Assets/Instruction-Arduino.png)
+
+```
+
+├── Template                          |   ├── Template
+│   └── SLS-OBP-Your-Project              |   │   └── SLS-OBP-Your-Project
+│       ├── libraries                 ➔   │       ├── lib
+│       │   └──                       |   │       │   └── 
+│       ├── platformio.ini            |   │       ├── platformio.ini
+│       └── ui                        ➔   │       └── src
+│           └── ui.ino                ➔   │           └── main.cpp
+```
+---
+
+## Arduino
+After exporting, update the Arduino settings → set the Sketchbook location to the project folder.
+
+```plaintext
+├── Template  
+│   └── SLS-OBP-Your-Project   
+│       ├── libraries             
+│       │   └──                          
+│       └── ui                        
+│           └── ui.ino
+```
+
