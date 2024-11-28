@@ -58,7 +58,8 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 ---
 
 # Instruction
-![alt text](00-Assets/sls.png)
+
+![alt text](00-Assets/SLS.png)
 ---
 
 ## PlatformIO
