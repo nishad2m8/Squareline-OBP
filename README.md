@@ -52,7 +52,8 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 |💥 Makerfabs |
 |[Rotary IPS-Display 1.28"](https://www.makerfabs.com/matouch-esp32-s3-rotaryips-display1-28-gc9a01.html)| ![alt text](<Makerfabs/MaTouch Rotary 1.28/MaTouch Rotary 1.28.png>) | 240x240 | https://github.com/nishad2m8/MaTouch-YT |
 |💥 CYD|
-|[4848S040C-IY3](https://s.click.aliexpress.com/e/_EQ3RBgD)| ![alt text](<Display Panel CYD/4848S040C-IY3/4848S040C-IY3.png>) | 480x480 |https://github.com/nishad2m8/Display-Panel-CYD
+|[ESP32-4848S040C-IY3](https://s.click.aliexpress.com/e/_EQ3RBgD)| ![alt text](<Display Panel CYD/4848S040C-IY3/4848S040C-IY3.png>) | 480x480 |https://github.com/nishad2m8/Display-Panel-CYD
+|[ESP32-2432S028R](https://s.click.aliexpress.com/e/_Ddtuvi1)| ![alt text](<Display Panel CYD/2432S028R/2432S028R.png>) | 320x240 | 🚧 WIP
 
 
 ---
