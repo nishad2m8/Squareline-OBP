@@ -38,7 +38,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | Board 🛍️ | Image | Resolution | My Works |
 |-----------------|-----------------|-----------------|-----------------|
 |💥 M5Stack |
-|[Cardputer](https://s.click.aliexpress.com/e/_DnK2GNR)|![alt text](M5Stack/Cardputer/cardputer.png) |240x135| https://github.com/nishad2m8/GeminiPuter <br> https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
+|[Cardputer](https://s.click.aliexpress.com/e/_DnK2GNR)|![alt text](M5Stack/Cardputer_v1.0.0/cardputer.png) |240x135| https://github.com/nishad2m8/GeminiPuter <br> https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
 |💥 Lilygo|
 | [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3/t-display-s3.png) | 320x170  | https://github.com/nishad2m8/T-Display-S3-YT |
 | [T-Display S3 AMOLED](https://s.click.aliexpress.com/e/_EJvcv3n)  | ![alt text](Lilygo/t-display-s3-amoled/t-display-s3-amoled.png) | 536x240  | https://github.com/nishad2m8/BTC-Ticker |
