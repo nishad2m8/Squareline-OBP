@@ -39,6 +39,8 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 |-----------------|-----------------|-----------------|-----------------|
 |💥 M5Stack |
 |[Cardputer](https://s.click.aliexpress.com/e/_DnK2GNR)|![alt text](M5Stack/Cardputer_v1.0.0/cardputer.png) |240x135| https://github.com/nishad2m8/GeminiPuter <br> https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
+|💥 WaveShare |
+|[ESP32-C6 1.47"](https://www.waveshare.com/esp32-c6-lcd-1.47.htm?&aff_id=104576)|![alt text](WaveShare/esp32-c6-1.47/esp32-c6-1.47.png) |172×320| 🚧 WIP|
 |💥 Lilygo|
 | [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3/t-display-s3.png) | 320x170  | https://github.com/nishad2m8/T-Display-S3-YT |
 | [T-Display S3 AMOLED](https://s.click.aliexpress.com/e/_EJvcv3n)  | ![alt text](Lilygo/t-display-s3-amoled/t-display-s3-amoled.png) | 536x240  | https://github.com/nishad2m8/BTC-Ticker |
