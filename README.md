@@ -39,6 +39,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 |[ESP32-C6 1.47"](https://www.waveshare.com/esp32-c6-lcd-1.47.htm?&aff_id=104576)|![alt text](WaveShare/esp32-c6-1.47/esp32-c6-1.47.png) |172×320| https://youtu.be/pDeoPXndeUQ|
 |[ESP32-S3 1.85"]( https://www.waveshare.com/esp32-s3-touch-lcd-1.85.htm?&aff_id=104576)| ![alt text](WaveShare/esp32-s3-1.85/esp32-s3-1.85.png) |360x360| 🚧 WIP|
 |[ESP32-S3 1.3"](https://www.waveshare.com/esp32-s3-lcd-1.3.htm?&aff_id=104576)|![alt text](WaveShare/esp32-s3-1.3/esp32-s3-1.3.png) |240x240| https://github.com/nishad2m8/WS-1.3|
+|[ESP32-S3 1.85C"](https://s.click.aliexpress.com/e/_on41Aqd)|![alt text](WaveShare/esp32-s3-1.85C/esp32-s3-1.85C.png) |360x360| |
 |💥 Lilygo|
 | [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3/t-display-s3.png) | 320x170  | https://github.com/nishad2m8/T-Display-S3-YT |
 | [T-Display S3 AMOLED](https://s.click.aliexpress.com/e/_EJvcv3n)  | ![alt text](Lilygo/t-display-s3-amoled/t-display-s3-amoled.png) | 536x240  | https://github.com/nishad2m8/BTC-Ticker |
