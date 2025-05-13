@@ -33,10 +33,10 @@ The board package files should be copied to the following path:
 
 _Support by using the referral link below to purchase the board 🛍️ !_
 
-| Board 🛍️ | Image | Resolution / Size | Flash / PSRAM |
-|-----------------|-----------------|-----------------|-----------------|
+| Board 🛍️ | Image | Resolution / Size | Flash / PSRAM | Works |
+|-----------------|-----------------|-----------------|-----------------| ------- |
 |💥 WaveShare |
-|[ESP32-C6 1.47"](https://s.click.aliexpress.com/e/_okYMjVj)|![alt text](WaveShare/esp32-c6-1.47/esp32-c6-1.47.png) | 172×320 / 1.47"| 4MB Flash / No PSRAM|
+|[ESP32-C6 1.47"](https://s.click.aliexpress.com/e/_okYMjVj)|![alt text](WaveShare/esp32-c6-1.47/esp32-c6-1.47.png) | 172×320 / 1.47"| 4MB Flash / No PSRAM| https://youtu.be/pDeoPXndeUQ |
 |[ESP32-S3 1.85"]( https://www.waveshare.com/esp32-s3-touch-lcd-1.85.htm?&aff_id=104576)| ![alt text](WaveShare/esp32-s3-1.85/esp32-s3-1.85.png) | 360x360 / 1.85" | 16MB Flash / 8MB PSRAM |
 |[ESP32-S3 1.3"](https://www.waveshare.com/esp32-s3-lcd-1.3.htm?&aff_id=104576)|![alt text](WaveShare/esp32-s3-1.3/esp32-s3-1.3.png) |240x240 / 1.3" | 16MB Flash / 8MB PSRAM |
 |[ESP32-S3 1.85C"](https://s.click.aliexpress.com/e/_on41Aqd)|![alt text](WaveShare/esp32-s3-1.85C/esp32-s3-1.85C.png) | 360x360 / 1.85"| 16MB Flash / 8MB PSRAM |
