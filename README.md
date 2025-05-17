@@ -41,6 +41,8 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 |[ESP32-S3 1.3"](https://www.waveshare.com/esp32-s3-lcd-1.3.htm?&aff_id=104576)|![alt text](WaveShare/esp32-s3-1.3/esp32-s3-1.3.png) |240x240 / 1.3" | 16MB Flash / 8MB PSRAM | https://github.com/nishad2m8/WS-1.3|
 |[ESP32-S3 1.85C"](https://s.click.aliexpress.com/e/_on41Aqd)|![alt text](WaveShare/esp32-s3-1.85C/esp32-s3-1.85C.png) | 360x360 / 1.85"| 16MB Flash / 8MB PSRAM | https://github.com/nishad2m8/WS-1.85C|
 |[ESP32-S3 AMOLED 2.41"](https://s.click.aliexpress.com/e/_on41Aqd)|![alt text](WaveShare/esp32-s3-2.41/esp32-s3-2.41.png)| 450x600 / 2.41" | 16MB Flash / 8MB PSRAM | https://github.com/nishad2m8/WS-2.41|
+|[ESP32-S3 AMOLED 1.91"](https://s.click.aliexpress.com/e/_okpdgEx)|![alt text](WaveShare/esp32-s3-1.91/esp32-s3-1.91.png)| 536x240 / 1.91" | 16MB Flash / 8MB PSRAM | |
+|[ESP32-S3 4.3"](https://s.click.aliexpress.com/e/_okpdgEx)|![alt text](WaveShare/esp32-s3-4.3B/esp32-s3-4.3B.png)| 800x480 / 4.3" | 16MB Flash / 8MB PSRAM | |
 |💥 Lilygo|
 | [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3/t-display-s3.png) | 320x170 / 1.9"  | 16MB Flash / 8MB PSRAM | https://github.com/nishad2m8/T-Display-S3-YT |
 | [T-Display S3 AMOLED](https://s.click.aliexpress.com/e/_EJvcv3n)  | ![alt text](Lilygo/t-display-s3-amoled/t-display-s3-amoled.png) | 536x240 / 1.91" | 16MB Flash / 8MB PSRAM  | https://github.com/nishad2m8/BTC-Ticker |
