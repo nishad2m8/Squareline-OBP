@@ -35,6 +35,9 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 
 | Board 🛍️ | Image | Resolution / Size | Flash / PSRAM | My Projects |
 |-----------------|-----------------|-----------------|-----------------| ------- |
+|💥 Elecrow |
+|[EPD CrowPanel 4.2"](https://s.click.aliexpress.com/e/_oCqiF7y)|![alt text](Elecrow/EPD_CrowPanel_4.2_v2.0.0/EPD_CrowPanel_4.2_v2.0.0.png) | 400x300 / 4.2”| 8MB Flash / 8MB PSRAM| https://youtu.be/JUelgoWAfgw |
+|[EPD CrowPanel 5.79"](https://s.click.aliexpress.com/e/_olXQNLG)|![alt text](Elecrow/EPD_CrowPanel_5.79_v2.0.0/EPD_CrowPanel_5.79_v2.0.0.png) | 272X792 / 5.79”| 8MB Flash / 8MB PSRAM| https://youtu.be/JUelgoWAfgw |
 |💥 WaveShare |
 |[ESP32-C6 1.47"](https://s.click.aliexpress.com/e/_okYMjVj)|![alt text](WaveShare/esp32-c6-1.47/esp32-c6-1.47.png) | 172×320 / 1.47"| 4MB Flash / No PSRAM| https://youtu.be/pDeoPXndeUQ |
 |[ESP32-S3 1.85"]( https://www.waveshare.com/esp32-s3-touch-lcd-1.85.htm?&aff_id=104576)| ![alt text](WaveShare/esp32-s3-1.85/esp32-s3-1.85.png) | 360x360 / 1.85" | 16MB Flash / 8MB PSRAM | 🚧 |
@@ -44,7 +47,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 |[ESP32-S3 AMOLED 1.91"](https://s.click.aliexpress.com/e/_okpdgEx)|![alt text](WaveShare/esp32-s3-1.91/esp32-s3-1.91.png)| 536x240 / 1.91" | 16MB Flash / 8MB PSRAM | |
 |[ESP32-S3 4.3"](https://s.click.aliexpress.com/e/_okpdgEx)|![alt text](WaveShare/esp32-s3-4.3B/esp32-s3-4.3B.png)| 800x480 / 4.3" | 16MB Flash / 8MB PSRAM | |
 |💥 Lilygo|
-| [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3/t-display-s3.png) | 320x170 / 1.9"  | 16MB Flash / 8MB PSRAM | https://github.com/nishad2m8/T-Display-S3-YT |
+| [T-Display S3](https://s.click.aliexpress.com/e/_EyapYZJ)  | ![alt text](Lilygo/t-display-s3_v1.0.0/t-display-s3.png) | 320x170 / 1.9"  | 16MB Flash / 8MB PSRAM | https://github.com/nishad2m8/T-Display-S3-YT |
 | [T-Display S3 AMOLED](https://s.click.aliexpress.com/e/_EJvcv3n)  | ![alt text](Lilygo/t-display-s3-amoled/t-display-s3-amoled.png) | 536x240 / 1.91" | 16MB Flash / 8MB PSRAM  | https://github.com/nishad2m8/BTC-Ticker |
 | [T-Display S3 AMOLED 1.43](https://s.click.aliexpress.com/e/_oo8DcLv)  |![alt text](Lilygo/t-display-s3-amoled-1.43/t-display-s3-amoled-1.43.png) | 466x466 / 1.43" | 16MB Flash / 8MB PSRAM | https://github.com/nishad2m8/T-Display-S3-DS-1.43-YT |
 | [T-Display S3 AMOLED 1.64](https://s.click.aliexpress.com/e/_oFH1351)  | ![alt text](Lilygo/t-display-s3-amoled-1.64/t-display-s3-amoled-1.64.png) | 280x456 / 1.64"  | 16MB Flash / 8MB PSRAM | https://github.com/nishad2m8/Pip-Boy-Weather-Clock |
